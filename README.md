@@ -10,3 +10,4 @@
 * canvas学写一个字
 * canvas玩儿转红包图片
 * canvas绘制倒计时效果
+* canvas实现星星闪烁效果
